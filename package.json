@@ -1,0 +1,15 @@
+{
+    "name": "dswap-tokenlist",
+    "version": "1.0.0",
+    "description": "DSwap tokenlist generator and IPFS uploader",
+    "main": "index.js",
+    "scripts": {
+      "build": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "ethers": "^5.4.0",
+      "ipfs-http-client": "^50.1.2",
+      "dotenv": "^16.4.5"
+    }
+  }
