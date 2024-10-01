@@ -17,7 +17,7 @@
             "defeed": ""
           },
           {
-            "chainId": 1,
+            "chainId": 8453,
             "addressToken": "0x89de04FA4D8FE7c215df9C28bA8CaE27A123a57F",
             "symbol": "ZERO",
             "decimals": 18,
