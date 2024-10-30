@@ -2,7 +2,6 @@
     {
         "name": "ZERO",
         "logoIpfs": "QmPShV1qHtC9qBDQuPJzkUdPX4DJhjb2yuACvTFjxxyDoJ",
-        "groupId": "fe60f480564a942d5373a1300e5a2a1d047a040ddf60c23c2beeeccd4a8fd700",
         "groupImage": "QmPShV1qHtC9qBDQuPJzkUdPX4DJhjb2yuACvTFjxxyDoJ",
         "tokens": [
           {
@@ -15,6 +14,7 @@
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
+            "groupId": "fe60f480564a942d5373a1300e5a2a1d047a040ddf60c23c2beeeccd4a8fd700",
           },
           {
             "chainId": 8453,
@@ -26,6 +26,7 @@
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
+            "groupId": "fe60f480564a942d5373a1300e5a2a1d047a040ddf60c23c2beeeccd4a8fd700",
           }
         ],
         "links": [
