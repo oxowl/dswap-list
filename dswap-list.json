@@ -1,28 +1,28 @@
 [
     {
-        "name": "ZERO",
-        "logoIpfs": "QmPShV1qHtC9qBDQuPJzkUdPX4DJhjb2yuACvTFjxxyDoJ",
-        "groupImage": "QmPShV1qHtC9qBDQuPJzkUdPX4DJhjb2yuACvTFjxxyDoJ",
-        "groupId": "fe60f480564a942d5373a1300e5a2a1d047a040ddf60c23c2beeeccd4a8fd700",
+        "name": "TICKER",
+        "logoIpfs": "QmPikwgC1Qf4KpVqcetyQnXty2ARuoYmoQgUEpCpzMDAEd",
+        "groupImage": "QmPikwgC1Qf4KpVqcetyQnXty2ARuoYmoQgUEpCpzMDAEd",
+        "groupId": "",
         "tokens": [
           {
             "chainId": 1,
             "addressToken": "",
-            "symbol": "ZERO",
+            "symbol": "TICKER",
             "decimals": 18,
             "addressStaking": "",
-            "name": "ZERO",
+            "name": "TICKER",
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
           },
           {
             "chainId": 8453,
-            "addressToken": "0x89de04FA4D8FE7c215df9C28bA8CaE27A123a57F",
-            "symbol": "ZERO",
+            "addressToken": "0xC11fAF8cFa72AB5Ccf716389bB470A7C827bc430",
+            "symbol": "TICKER",
             "decimals": 18,
-            "addressStaking": "",
-            "name": "ZERO",
+            "addressStaking": "0xF501017F47Eeffd591d1f40eF61a62f3D72F419A",
+            "name": "TICKER",
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
