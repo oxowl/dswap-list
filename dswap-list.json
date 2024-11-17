@@ -55,5 +55,62 @@
               "url": ""
             }
           ]
+      },
+{
+        "name": "VZHUKH",
+        "logoIpfs": "QmXsX9rSkncUuCCR6uf2vJZG6FN3jziFyFkamfHrB4E1NY",
+        "groupImage": "QmXsX9rSkncUuCCR6uf2vJZG6FN3jziFyFkamfHrB4E1NY",
+        "groupId": "",
+        "tokens": [
+          {
+            "chainId": 1,
+            "addressToken": "",
+            "symbol": "VZHUKH",
+            "decimals": 18,
+            "addressStaking": "",
+            "name": "VZHUKH",
+            "oftAdapter": "",
+            "oft": "",
+            "defeed": ""
+          },
+          {
+            "chainId": 8453,
+            "addressToken": "0x5932d42529C59cA7f2237c89B337AB99d08d9C6A",
+            "symbol": "VZHUKH",
+            "decimals": 18,
+            "addressStaking": "0x095E0c33CC5EA81C11A861aD488B5Cd123A6D9C8",
+            "name": "VZHUKH",
+            "oftAdapter": "",
+            "oft": "",
+            "defeed": ""
+          }
+        ],
+        "links": [
+            {
+              "icon": "website",
+              "name": "Website",
+              "url": ""
+            },
+            {
+              "icon": "telegram",
+              "name": "Telegram",
+              "url": ""
+            },
+            {
+              "icon": "xtwitter",
+              "name": "XTwitter",
+              "url": ""
+            },
+            {
+              "icon": "discord",
+              "name": "Discord",
+              "url": ""
+            },
+            {
+              "icon": "github",
+              "name": "GitHub",
+              "url": ""
+            }
+          ]
       }
 ]
