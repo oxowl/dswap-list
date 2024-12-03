@@ -1,85 +1,28 @@
 [
-    {
-        "name": "TICKER",
-        "logoIpfs": "QmPikwgC1Qf4KpVqcetyQnXty2ARuoYmoQgUEpCpzMDAEd",
-        "groupImage": "QmPikwgC1Qf4KpVqcetyQnXty2ARuoYmoQgUEpCpzMDAEd",
-        "groupId": "",
-        "tokens": [
-          {
-            "chainId": 1,
-            "addressToken": "",
-            "symbol": "TICKER",
-            "decimals": 18,
-            "addressStaking": "",
-            "name": "TICKER",
-            "oftAdapter": "",
-            "oft": "",
-            "defeed": ""
-          },
-          {
-            "chainId": 8453,
-            "addressToken": "0xC11fAF8cFa72AB5Ccf716389bB470A7C827bc430",
-            "symbol": "TICKER",
-            "decimals": 18,
-            "addressStaking": "0xF501017F47Eeffd591d1f40eF61a62f3D72F419A",
-            "name": "TICKER",
-            "oftAdapter": "",
-            "oft": "",
-            "defeed": ""
-          }
-        ],
-        "links": [
-            {
-              "icon": "website",
-              "name": "Website",
-              "url": ""
-            },
-            {
-              "icon": "telegram",
-              "name": "Telegram",
-              "url": ""
-            },
-            {
-              "icon": "xtwitter",
-              "name": "XTwitter",
-              "url": ""
-            },
-            {
-              "icon": "discord",
-              "name": "Discord",
-              "url": ""
-            },
-            {
-              "icon": "github",
-              "name": "GitHub",
-              "url": ""
-            }
-          ]
-      },
 {
-        "name": "VZHUKH",
-        "logoIpfs": "QmXsX9rSkncUuCCR6uf2vJZG6FN3jziFyFkamfHrB4E1NY",
-        "groupImage": "QmXsX9rSkncUuCCR6uf2vJZG6FN3jziFyFkamfHrB4E1NY",
+        "name": "POW",
+        "logoIpfs": "QmUyMecBcoruQPpi5XzjKh1uxvKTkk5mqJsQ2tyzZbrLHo",
+        "groupImage": "QmUyMecBcoruQPpi5XzjKh1uxvKTkk5mqJsQ2tyzZbrLHo",
         "groupId": "",
         "tokens": [
           {
             "chainId": 1,
             "addressToken": "",
-            "symbol": "VZHUKH",
+            "symbol": "POW",
             "decimals": 18,
             "addressStaking": "",
-            "name": "VZHUKH",
+            "name": "POW",
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
           },
           {
             "chainId": 8453,
-            "addressToken": "0x5932d42529C59cA7f2237c89B337AB99d08d9C6A",
-            "symbol": "VZHUKH",
+            "addressToken": "0xe019327f5fd3a7BA47D742dFb593d91C4a664297",
+            "symbol": "POW",
             "decimals": 18,
-            "addressStaking": "0x095E0c33CC5EA81C11A861aD488B5Cd123A6D9C8",
-            "name": "VZHUKH",
+            "addressStaking": "0x9cAF2BbcCB5AeA4b468E0569F77dA7bdaB5B0184",
+            "name": "POW",
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
@@ -89,69 +32,12 @@
             {
               "icon": "website",
               "name": "Website",
-              "url": ""
+              "url": "https://www.powpow.ai/agents"
             },
             {
               "icon": "telegram",
               "name": "Telegram",
-              "url": ""
-            },
-            {
-              "icon": "xtwitter",
-              "name": "XTwitter",
-              "url": ""
-            },
-            {
-              "icon": "discord",
-              "name": "Discord",
-              "url": ""
-            },
-            {
-              "icon": "github",
-              "name": "GitHub",
-              "url": ""
-            }
-          ]
-      },
-{
-        "name": "VICAT",
-        "logoIpfs": "QmPCz3ysGjFMApnkYRNbE1qVhsSEp8fWn5wMKBjseLnaHi",
-        "groupImage": "QmPCz3ysGjFMApnkYRNbE1qVhsSEp8fWn5wMKBjseLnaHi",
-        "groupId": "",
-        "tokens": [
-          {
-            "chainId": 1,
-            "addressToken": "",
-            "symbol": "VICAT",
-            "decimals": 18,
-            "addressStaking": "",
-            "name": "VICAT",
-            "oftAdapter": "",
-            "oft": "",
-            "defeed": ""
-          },
-          {
-            "chainId": 8453,
-            "addressToken": "0xa5ca0cF3394f4b34023B7316Dba09BB7b4c669c3",
-            "symbol": "VICAT",
-            "decimals": 18,
-            "addressStaking": "0x2f0d893ee3C380dAb9EfA4d45b7A888C09d692f4",
-            "name": "VICAT",
-            "oftAdapter": "",
-            "oft": "",
-            "defeed": ""
-          }
-        ],
-        "links": [
-            {
-              "icon": "website",
-              "name": "Website",
-              "url": ""
-            },
-            {
-              "icon": "telegram",
-              "name": "Telegram",
-              "url": ""
+              "url": "https://t.me/offpowpowai"
             },
             {
               "icon": "xtwitter",
