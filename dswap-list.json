@@ -55,5 +55,62 @@
               "url": ""
             }
           ]
+      },
+{
+        "name": "DOGEUFO",
+        "logoIpfs": "QmZxM6bDAwSdFeRoaKmmRzP5t1RFKQB3WMUTD6YTpniHTZ",
+        "groupImage": "QmZxM6bDAwSdFeRoaKmmRzP5t1RFKQB3WMUTD6YTpniHTZ",
+        "groupId": "",
+        "tokens": [
+          {
+            "chainId": 1,
+            "addressToken": "",
+            "symbol": "DOGEUFO",
+            "decimals": 18,
+            "addressStaking": "",
+            "name": "DOGEUFO",
+            "oftAdapter": "",
+            "oft": "",
+            "defeed": ""
+          },
+          {
+            "chainId": 8453,
+            "addressToken": "0xeBEb70D1d541F7281E142dc9E8Ad73564D3D87cF",
+            "symbol": "DOGEUFO",
+            "decimals": 18,
+            "addressStaking": "0x9f3C7D25E6252c83E8a114Ed6dF11006c611f050",
+            "name": "DOGEUFO",
+            "oftAdapter": "",
+            "oft": "",
+            "defeed": ""
+          }
+        ],
+        "links": [
+            {
+              "icon": "website",
+              "name": "Website",
+              "url": "https://www.deunity.com/token/0xeBEb70D1d541F7281E142dc9E8Ad73564D3D87cF"
+            },
+            {
+              "icon": "telegram",
+              "name": "Telegram",
+              "url": ""
+            },
+            {
+              "icon": "xtwitter",
+              "name": "XTwitter",
+              "url": "https://x.com/dogeufo"
+            },
+            {
+              "icon": "discord",
+              "name": "Discord",
+              "url": ""
+            },
+            {
+              "icon": "github",
+              "name": "GitHub",
+              "url": ""
+            }
+          ]
       }
 ]
