@@ -1,28 +1,28 @@
 [
 {
-        "name": "POW",
-        "logoIpfs": "QmUyMecBcoruQPpi5XzjKh1uxvKTkk5mqJsQ2tyzZbrLHo",
-        "groupImage": "QmUyMecBcoruQPpi5XzjKh1uxvKTkk5mqJsQ2tyzZbrLHo",
+        "name": "UNIT",
+        "logoIpfs": "QmWZkVrQgvgNwaTKo8q7RjnUrQ6X1ZKbEwnGuKTjkK1VJN",
+        "groupImage": "QmWZkVrQgvgNwaTKo8q7RjnUrQ6X1ZKbEwnGuKTjkK1VJN",
         "groupId": "",
         "tokens": [
           {
             "chainId": 1,
             "addressToken": "",
-            "symbol": "POW",
+            "symbol": "UNIT",
             "decimals": 18,
             "addressStaking": "",
-            "name": "POW",
+            "name": "UNIT",
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
           },
           {
             "chainId": 8453,
-            "addressToken": "0xe019327f5fd3a7BA47D742dFb593d91C4a664297",
-            "symbol": "POW",
+            "addressToken": "0xE316c024aBd94dB7E60Ea70c14544091dec14Ac7",
+            "symbol": "UNIT",
             "decimals": 18,
-            "addressStaking": "0x9cAF2BbcCB5AeA4b468E0569F77dA7bdaB5B0184",
-            "name": "POW",
+            "addressStaking": "0x0Ef6A5e91F51B9d05250059Da196999eE8e8621B",
+            "name": "UNIT",
             "oftAdapter": "",
             "oft": "",
             "defeed": ""
@@ -32,17 +32,17 @@
             {
               "icon": "website",
               "name": "Website",
-              "url": "https://www.powpow.ai/agents"
+              "url": "https://www.deunity.com"
             },
             {
               "icon": "telegram",
               "name": "Telegram",
-              "url": "https://t.me/offpowpowai"
+              "url": "https://t.me/deperpcom"
             },
             {
               "icon": "xtwitter",
               "name": "XTwitter",
-              "url": ""
+              "url": "https://x.com/deperpcom"
             },
             {
               "icon": "discord",
